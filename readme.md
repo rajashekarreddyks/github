@@ -1,1 +1,1 @@
-learning git and nextjs
+learning git and github
